@@ -1,16 +1,27 @@
-# React + Vite
+# React Learning Journey
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A comprehensive repository dedicated to mastering React.js and the MERN stack. This repo tracks my progress through various modules, exercises, and full-scale applications.
 
-Currently, two official plugins are available:
+## Project Overview
+This repository serves as a centralized hub for my React development path. It includes everything from fundamental component logic and hooks to advanced state management and API integration.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠 Tech Stack
+* **Frontend:** React.js, Vite, Tailwind CSS
+* **State Management:** Redux Toolkit / Context API
+* **Data Fetching:** Axios, React Query
+* **Testing:** Jest, Vitest
+* **Tools:** ESLint, Prettier, Git
 
-## React Compiler
+## 📂 Repository Structure
+The projects are organized by module/topic for easy navigation:
+* `/part0-basic-react`: Introduction to components, props, and JSX.
+* `/part1-state-events`: Handling user input and component state.
+* `/part2-server-comm`: Communicating with backends and JSON servers.
+* `/project-capstone`: A full-featured application integrating all learned concepts.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Getting Started
+To run any of the projects locally:
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/couldbereggsf/react-projects.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
