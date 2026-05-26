@@ -1,0 +1,24 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "A comprehensive repository dedicated to mastering React.js and the MERN stack. This repo tracks my progress through various modules, exercises, and full-scale applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/couldbereggsf/react-projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/couldbereggsf/react-projects/issues"
+  },
+  "homepage": "https://github.com/couldbereggsf/react-projects#readme",
+  "dependencies": {
+    "prop-types": "^15.8.1"
+  }
+}
