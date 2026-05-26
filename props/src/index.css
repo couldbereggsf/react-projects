@@ -5,6 +5,7 @@
     /* Adds space between each student card */
     padding: 20px;
     justify-content: center; }
+    
 .student {
     border: 1px solid #84eb44;
     padding: 10px;
